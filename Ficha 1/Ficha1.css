@@ -1,0 +1,36 @@
+h1{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: aqua;
+}
+h2,h3,h4{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: aquamarine;
+}
+h5{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: cornflowerblue;
+}
+li{
+    font-size: 16px;
+    font-family: sans-serif;
+}
+p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.mainheader{
+    background-color: lightgrey;
+    padding: 20px;
+    border:green 3px solid;
+    margin: auto;
+
+}
+.container{
+    width: 600px;
+    margin: 20px auto;
+    border:rgb(202, 135, 135) 3px solid;
+
+    }
